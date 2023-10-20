@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning **Machine Learning,Deep Learning**
 
 - 📝 I regularly write articles on [https://medium.com/@grimmo9](https://medium.com/@grimmo9)
+  
+- 😊 I try to contribute on kaggle [https://www.kaggle.com/dk123891](https://www.kaggle.com/dk123891)
 
 - 💬 Ask me about **Data**
 
