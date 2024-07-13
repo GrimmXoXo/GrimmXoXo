@@ -12,4 +12,4 @@
 - [Medium](https://medium.com/@grimmo9)
 
 ## Data Tools:
-- Google Cloud Platform, Amazon Web Services, Flask, PostgreSQL, TensorFlow, Keras, PyTorch, Linux, MySQL, Pandas, Python, scikit-learn, Seaborn
+- Google Cloud Platform, Amazon Web Services, Flask, PostgreSQL, TensorFlow, Keras, PyTorch, Linux, MySQL, Pandas, Python, scikit-learn, WebScraping(Selenium/Bs4)
