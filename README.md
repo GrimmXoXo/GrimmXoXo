@@ -1,5 +1,4 @@
-# Hi 👋, I'm GM
-## Problem Solving 
+## Skills 
 
 - Currently learning: IoT, Generative AI
 - Built projects using: Data Science/Analysis , ML, DL, PyTorch, PostgreSQL, Flask, Cloud, 
