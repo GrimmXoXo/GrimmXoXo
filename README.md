@@ -1,7 +1,7 @@
 ## Skills 
 
-- Currently learning: IoT, Generative AI
-- Built projects using: Data Science/Analysis , ML, DL, PyTorch, PostgreSQL, Flask, Cloud, 
+- Currently learning: Generative AI
+- Built projects using: Data Science/Analysis , ML, DL, PyTorch, PostgreSQL, Flask, Cloud(AWS)
 - Deployed: Cloud, Pypi(Packaging)
 - Focused on: Problem Solving
 - Reach me at: grimmxoxo2001@gmail.com
